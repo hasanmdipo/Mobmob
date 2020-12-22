@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MobMob.</string>
+    <string name="cars_name">Nama Mobil</string>
+    <string name="cars_price">Harga Mobil</string>
+    <string name="detail">Detail</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="detail_name">Nama Mobil</string>
+    <string name="detail_price">Harga Mobil</string>
+    <string name="detail_decs">Deskripsi</string>
+    <string name="harga">Harga</string>
+</resources>
